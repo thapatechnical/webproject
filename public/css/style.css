@@ -10,8 +10,8 @@
 }
 
 :root {
-  --main-bg: #1e272e;
-  --main-color: #0097e6;
+  --main-bg: #1d2429;
+  --main-color: #00aaff;
 }
 
 html {
@@ -263,7 +263,7 @@ footer p {
 
 /* responsive code  */
 
-@media (max-width: 768px) {
+@media (max-width: 769px) {
   .main_header_left {
     height: auto;
     margin: 5rem 0;
